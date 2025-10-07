@@ -1,0 +1,1271 @@
+[
+  {
+    "timestamp": "2025-10-05T15:12:52.076311",
+    "duration_seconds": 2319,
+    "duration_minutes": 38.65,
+    "distance_meters": 26041,
+    "distance_km": 26.041,
+    "base_duration": 1921,
+    "traffic_delay": 398
+  },
+  {
+    "timestamp": "2025-10-05T15:13:50.542327",
+    "duration_seconds": 2483,
+    "duration_minutes": 41.38333333333333,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 643
+  },
+  {
+    "timestamp": "2025-10-05T15:23:51.033617",
+    "duration_seconds": 2670,
+    "duration_minutes": 44.5,
+    "distance_meters": 27085,
+    "distance_km": 27.085,
+    "base_duration": 2066,
+    "traffic_delay": 604
+  },
+  {
+    "timestamp": "2025-10-05T15:33:51.549209",
+    "duration_seconds": 2772,
+    "duration_minutes": 46.2,
+    "distance_meters": 29335,
+    "distance_km": 29.335,
+    "base_duration": 2021,
+    "traffic_delay": 751
+  },
+  {
+    "timestamp": "2025-10-05T15:44:52.015304",
+    "duration_seconds": 2731,
+    "duration_minutes": 45.516666666666666,
+    "distance_meters": 29335,
+    "distance_km": 29.335,
+    "base_duration": 2021,
+    "traffic_delay": 710
+  },
+  {
+    "timestamp": "2025-10-05T15:54:52.510503",
+    "duration_seconds": 2772,
+    "duration_minutes": 46.2,
+    "distance_meters": 27306,
+    "distance_km": 27.306,
+    "base_duration": 2064,
+    "traffic_delay": 708
+  },
+  {
+    "timestamp": "2025-10-05T16:04:53.159324",
+    "duration_seconds": 2781,
+    "duration_minutes": 46.35,
+    "distance_meters": 25519,
+    "distance_km": 25.519,
+    "base_duration": 1869,
+    "traffic_delay": 912
+  },
+  {
+    "timestamp": "2025-10-05T16:14:53.663312",
+    "duration_seconds": 2752,
+    "duration_minutes": 45.86666666666667,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 912
+  },
+  {
+    "timestamp": "2025-10-05T16:24:54.188793",
+    "duration_seconds": 3101,
+    "duration_minutes": 51.68333333333333,
+    "distance_meters": 31097,
+    "distance_km": 31.097,
+    "base_duration": 2134,
+    "traffic_delay": 967
+  },
+  {
+    "timestamp": "2025-10-05T16:34:54.660042",
+    "duration_seconds": 3126,
+    "duration_minutes": 52.1,
+    "distance_meters": 31101,
+    "distance_km": 31.101,
+    "base_duration": 2145,
+    "traffic_delay": 981
+  },
+  {
+    "timestamp": "2025-10-05T16:44:55.256675",
+    "duration_seconds": 3191,
+    "duration_minutes": 53.18333333333333,
+    "distance_meters": 31100,
+    "distance_km": 31.1,
+    "base_duration": 2170,
+    "traffic_delay": 1021
+  },
+  {
+    "timestamp": "2025-10-05T16:54:55.742844",
+    "duration_seconds": 3130,
+    "duration_minutes": 52.166666666666664,
+    "distance_meters": 26426,
+    "distance_km": 26.426,
+    "base_duration": 2061,
+    "traffic_delay": 1069
+  },
+  {
+    "timestamp": "2025-10-05T17:04:56.266601",
+    "duration_seconds": 3145,
+    "duration_minutes": 52.416666666666664,
+    "distance_meters": 28463,
+    "distance_km": 28.463,
+    "base_duration": 1983,
+    "traffic_delay": 1162
+  },
+  {
+    "timestamp": "2025-10-05T17:14:56.740750",
+    "duration_seconds": 3157,
+    "duration_minutes": 52.61666666666667,
+    "distance_meters": 29723,
+    "distance_km": 29.723,
+    "base_duration": 2257,
+    "traffic_delay": 900
+  },
+  {
+    "timestamp": "2025-10-05T17:24:57.320512",
+    "duration_seconds": 3549,
+    "duration_minutes": 59.15,
+    "distance_meters": 23008,
+    "distance_km": 23.008,
+    "base_duration": 2355,
+    "traffic_delay": 1194
+  },
+  {
+    "timestamp": "2025-10-05T17:34:57.729763",
+    "duration_seconds": 3135,
+    "duration_minutes": 52.25,
+    "distance_meters": 27502,
+    "distance_km": 27.502,
+    "base_duration": 2241,
+    "traffic_delay": 894
+  },
+  {
+    "timestamp": "2025-10-05T17:44:58.759817",
+    "duration_seconds": 3386,
+    "duration_minutes": 56.43333333333333,
+    "distance_meters": 25461,
+    "distance_km": 25.461,
+    "base_duration": 1843,
+    "traffic_delay": 1543
+  },
+  {
+    "timestamp": "2025-10-05T17:54:59.246398",
+    "duration_seconds": 3438,
+    "duration_minutes": 57.3,
+    "distance_meters": 28463,
+    "distance_km": 28.463,
+    "base_duration": 1983,
+    "traffic_delay": 1455
+  },
+  {
+    "timestamp": "2025-10-05T18:04:59.899030",
+    "duration_seconds": 3365,
+    "duration_minutes": 56.083333333333336,
+    "distance_meters": 28463,
+    "distance_km": 28.463,
+    "base_duration": 1983,
+    "traffic_delay": 1382
+  },
+  {
+    "timestamp": "2025-10-05T18:15:00.401295",
+    "duration_seconds": 3588,
+    "duration_minutes": 59.8,
+    "distance_meters": 25488,
+    "distance_km": 25.488,
+    "base_duration": 2877,
+    "traffic_delay": 711
+  },
+  {
+    "timestamp": "2025-10-05T18:25:01.004325",
+    "duration_seconds": 3553,
+    "duration_minutes": 59.21666666666667,
+    "distance_meters": 23937,
+    "distance_km": 23.937,
+    "base_duration": 2542,
+    "traffic_delay": 1011
+  },
+  {
+    "timestamp": "2025-10-05T18:35:01.386207",
+    "duration_seconds": 3097,
+    "duration_minutes": 51.61666666666667,
+    "distance_meters": 26438,
+    "distance_km": 26.438,
+    "base_duration": 2087,
+    "traffic_delay": 1010
+  },
+  {
+    "timestamp": "2025-10-05T18:45:02.722344",
+    "duration_seconds": 3251,
+    "duration_minutes": 54.18333333333333,
+    "distance_meters": 26424,
+    "distance_km": 26.424,
+    "base_duration": 2058,
+    "traffic_delay": 1193
+  },
+  {
+    "timestamp": "2025-10-05T18:55:03.176429",
+    "duration_seconds": 3278,
+    "duration_minutes": 54.63333333333333,
+    "distance_meters": 26891,
+    "distance_km": 26.891,
+    "base_duration": 2265,
+    "traffic_delay": 1013
+  },
+  {
+    "timestamp": "2025-10-05T19:05:04.409952",
+    "duration_seconds": 3274,
+    "duration_minutes": 54.56666666666667,
+    "distance_meters": 31056,
+    "distance_km": 31.056,
+    "base_duration": 2150,
+    "traffic_delay": 1124
+  },
+  {
+    "timestamp": "2025-10-05T19:15:04.907486",
+    "duration_seconds": 3097,
+    "duration_minutes": 51.61666666666667,
+    "distance_meters": 31056,
+    "distance_km": 31.056,
+    "base_duration": 2150,
+    "traffic_delay": 947
+  },
+  {
+    "timestamp": "2025-10-05T19:25:05.580114",
+    "duration_seconds": 3065,
+    "duration_minutes": 51.083333333333336,
+    "distance_meters": 26130,
+    "distance_km": 26.13,
+    "base_duration": 2257,
+    "traffic_delay": 808
+  },
+  {
+    "timestamp": "2025-10-05T19:35:06.035730",
+    "duration_seconds": 3161,
+    "duration_minutes": 52.68333333333333,
+    "distance_meters": 25203,
+    "distance_km": 25.203,
+    "base_duration": 1850,
+    "traffic_delay": 1311
+  },
+  {
+    "timestamp": "2025-10-05T19:45:06.891653",
+    "duration_seconds": 2891,
+    "duration_minutes": 48.18333333333333,
+    "distance_meters": 25707,
+    "distance_km": 25.707,
+    "base_duration": 2143,
+    "traffic_delay": 748
+  },
+  {
+    "timestamp": "2025-10-05T19:55:07.571919",
+    "duration_seconds": 2991,
+    "duration_minutes": 49.85,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 1151
+  },
+  {
+    "timestamp": "2025-10-05T20:05:08.431990",
+    "duration_seconds": 2735,
+    "duration_minutes": 45.583333333333336,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 895
+  },
+  {
+    "timestamp": "2025-10-05T20:15:08.801822",
+    "duration_seconds": 2691,
+    "duration_minutes": 44.85,
+    "distance_meters": 31097,
+    "distance_km": 31.097,
+    "base_duration": 2134,
+    "traffic_delay": 557
+  },
+  {
+    "timestamp": "2025-10-05T20:33:36.284010",
+    "duration_seconds": 2535,
+    "duration_minutes": 42.25,
+    "distance_meters": 25359,
+    "distance_km": 25.359,
+    "base_duration": 2060,
+    "traffic_delay": 475
+  },
+  {
+    "timestamp": "2025-10-05T20:50:00.274148",
+    "duration_seconds": 2400,
+    "duration_minutes": 40.0,
+    "distance_meters": 26380,
+    "distance_km": 26.38,
+    "base_duration": 1993,
+    "traffic_delay": 407
+  },
+  {
+    "timestamp": "2025-10-05T21:08:02.002624",
+    "duration_seconds": 2283,
+    "duration_minutes": 38.05,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 470
+  },
+  {
+    "timestamp": "2025-10-05T21:25:35.789535",
+    "duration_seconds": 2085,
+    "duration_minutes": 34.75,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 245
+  },
+  {
+    "timestamp": "2025-10-05T21:47:10.358035",
+    "duration_seconds": 2063,
+    "duration_minutes": 34.38333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 250
+  },
+  {
+    "timestamp": "2025-10-05T22:05:57.544091",
+    "duration_seconds": 2061,
+    "duration_minutes": 34.35,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 248
+  },
+  {
+    "timestamp": "2025-10-05T22:16:47.490799",
+    "duration_seconds": 1911,
+    "duration_minutes": 31.85,
+    "distance_meters": 25491,
+    "distance_km": 25.491,
+    "base_duration": 1833,
+    "traffic_delay": 78
+  },
+  {
+    "timestamp": "2025-10-05T22:26:48.023985",
+    "duration_seconds": 1942,
+    "duration_minutes": 32.36666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 129
+  },
+  {
+    "timestamp": "2025-10-05T22:36:48.444835",
+    "duration_seconds": 1975,
+    "duration_minutes": 32.916666666666664,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 162
+  },
+  {
+    "timestamp": "2025-10-05T22:46:49.019350",
+    "duration_seconds": 1872,
+    "duration_minutes": 31.2,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 59
+  },
+  {
+    "timestamp": "2025-10-05T22:56:49.564716",
+    "duration_seconds": 1802,
+    "duration_minutes": 30.033333333333335,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -11
+  },
+  {
+    "timestamp": "2025-10-05T23:06:50.151667",
+    "duration_seconds": 1871,
+    "duration_minutes": 31.183333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 58
+  },
+  {
+    "timestamp": "2025-10-05T23:45:48.023016",
+    "duration_seconds": 1794,
+    "duration_minutes": 29.9,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -19
+  },
+  {
+    "timestamp": "2025-10-06T00:00:30.361119",
+    "duration_seconds": 1804,
+    "duration_minutes": 30.066666666666666,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -9
+  },
+  {
+    "timestamp": "2025-10-06T00:17:34.173609",
+    "duration_seconds": 1798,
+    "duration_minutes": 29.966666666666665,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -15
+  },
+  {
+    "timestamp": "2025-10-06T00:36:10.915475",
+    "duration_seconds": 1783,
+    "duration_minutes": 29.716666666666665,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -30
+  },
+  {
+    "timestamp": "2025-10-06T00:56:37.507250",
+    "duration_seconds": 1766,
+    "duration_minutes": 29.433333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -47
+  },
+  {
+    "timestamp": "2025-10-06T01:14:04.704824",
+    "duration_seconds": 1735,
+    "duration_minutes": 28.916666666666668,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -78
+  },
+  {
+    "timestamp": "2025-10-06T01:49:41.189509",
+    "duration_seconds": 1738,
+    "duration_minutes": 28.966666666666665,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -75
+  },
+  {
+    "timestamp": "2025-10-06T02:07:38.355527",
+    "duration_seconds": 1838,
+    "duration_minutes": 30.633333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 25
+  },
+  {
+    "timestamp": "2025-10-06T02:24:06.538240",
+    "duration_seconds": 1705,
+    "duration_minutes": 28.416666666666668,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -108
+  },
+  {
+    "timestamp": "2025-10-06T02:40:44.854482",
+    "duration_seconds": 1842,
+    "duration_minutes": 30.7,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 29
+  },
+  {
+    "timestamp": "2025-10-06T02:58:37.959454",
+    "duration_seconds": 1720,
+    "duration_minutes": 28.666666666666668,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -93
+  },
+  {
+    "timestamp": "2025-10-06T03:15:03.530856",
+    "duration_seconds": 1698,
+    "duration_minutes": 28.3,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -115
+  },
+  {
+    "timestamp": "2025-10-06T03:49:08.595898",
+    "duration_seconds": 1733,
+    "duration_minutes": 28.883333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -80
+  },
+  {
+    "timestamp": "2025-10-06T04:05:18.791966",
+    "duration_seconds": 1671,
+    "duration_minutes": 27.85,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -142
+  },
+  {
+    "timestamp": "2025-10-06T04:23:58.438322",
+    "duration_seconds": 1754,
+    "duration_minutes": 29.233333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -59
+  },
+  {
+    "timestamp": "2025-10-06T04:40:04.531675",
+    "duration_seconds": 1752,
+    "duration_minutes": 29.2,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -61
+  },
+  {
+    "timestamp": "2025-10-06T05:21:36.190634",
+    "duration_seconds": 1761,
+    "duration_minutes": 29.35,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -52
+  },
+  {
+    "timestamp": "2025-10-06T05:40:31.719885",
+    "duration_seconds": 1885,
+    "duration_minutes": 31.416666666666668,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 72
+  },
+  {
+    "timestamp": "2025-10-06T05:59:24.865685",
+    "duration_seconds": 1901,
+    "duration_minutes": 31.683333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 88
+  },
+  {
+    "timestamp": "2025-10-06T06:18:30.299808",
+    "duration_seconds": 2071,
+    "duration_minutes": 34.516666666666666,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 258
+  },
+  {
+    "timestamp": "2025-10-06T06:36:53.372322",
+    "duration_seconds": 2313,
+    "duration_minutes": 38.55,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 473
+  },
+  {
+    "timestamp": "2025-10-06T06:55:26.242475",
+    "duration_seconds": 2596,
+    "duration_minutes": 43.266666666666666,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 756
+  },
+  {
+    "timestamp": "2025-10-06T07:13:40.787834",
+    "duration_seconds": 2791,
+    "duration_minutes": 46.516666666666666,
+    "distance_meters": 26380,
+    "distance_km": 26.38,
+    "base_duration": 1993,
+    "traffic_delay": 798
+  },
+  {
+    "timestamp": "2025-10-06T07:27:14.048555",
+    "duration_seconds": 3119,
+    "duration_minutes": 51.983333333333334,
+    "distance_meters": 23008,
+    "distance_km": 23.008,
+    "base_duration": 2355,
+    "traffic_delay": 764
+  },
+  {
+    "timestamp": "2025-10-06T07:44:14.131233",
+    "duration_seconds": 3225,
+    "duration_minutes": 53.75,
+    "distance_meters": 31097,
+    "distance_km": 31.097,
+    "base_duration": 2134,
+    "traffic_delay": 1091
+  },
+  {
+    "timestamp": "2025-10-06T08:02:06.417345",
+    "duration_seconds": 3390,
+    "duration_minutes": 56.5,
+    "distance_meters": 30223,
+    "distance_km": 30.223,
+    "base_duration": 2354,
+    "traffic_delay": 1036
+  },
+  {
+    "timestamp": "2025-10-06T09:26:09.754354",
+    "duration_seconds": 3273,
+    "duration_minutes": 54.55,
+    "distance_meters": 26643,
+    "distance_km": 26.643,
+    "base_duration": 2109,
+    "traffic_delay": 1164
+  },
+  {
+    "timestamp": "2025-10-06T10:12:44.908188",
+    "duration_seconds": 2825,
+    "duration_minutes": 47.083333333333336,
+    "distance_meters": 31101,
+    "distance_km": 31.101,
+    "base_duration": 2122,
+    "traffic_delay": 703
+  },
+  {
+    "timestamp": "2025-10-06T10:22:46.995606",
+    "duration_seconds": 2795,
+    "duration_minutes": 46.583333333333336,
+    "distance_meters": 31308,
+    "distance_km": 31.308,
+    "base_duration": 2152,
+    "traffic_delay": 643
+  },
+  {
+    "timestamp": "2025-10-06T10:32:48.215965",
+    "duration_seconds": 2739,
+    "duration_minutes": 45.65,
+    "distance_meters": 31101,
+    "distance_km": 31.101,
+    "base_duration": 2122,
+    "traffic_delay": 617
+  },
+  {
+    "timestamp": "2025-10-06T10:42:56.090618",
+    "duration_seconds": 2704,
+    "duration_minutes": 45.06666666666667,
+    "distance_meters": 31103,
+    "distance_km": 31.103,
+    "base_duration": 2136,
+    "traffic_delay": 568
+  },
+  {
+    "timestamp": "2025-10-06T10:53:01.089829",
+    "duration_seconds": 2709,
+    "duration_minutes": 45.15,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 896
+  },
+  {
+    "timestamp": "2025-10-06T11:03:02.929679",
+    "duration_seconds": 2576,
+    "duration_minutes": 42.93333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 763
+  },
+  {
+    "timestamp": "2025-10-06T11:13:09.085252",
+    "duration_seconds": 2407,
+    "duration_minutes": 40.11666666666667,
+    "distance_meters": 25438,
+    "distance_km": 25.438,
+    "base_duration": 1925,
+    "traffic_delay": 482
+  },
+  {
+    "timestamp": "2025-10-06T11:23:18.615067",
+    "duration_seconds": 2373,
+    "duration_minutes": 39.55,
+    "distance_meters": 25609,
+    "distance_km": 25.609,
+    "base_duration": 1867,
+    "traffic_delay": 506
+  },
+  {
+    "timestamp": "2025-10-06T11:33:19.479081",
+    "duration_seconds": 2275,
+    "duration_minutes": 37.916666666666664,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 435
+  },
+  {
+    "timestamp": "2025-10-06T11:43:23.104287",
+    "duration_seconds": 2384,
+    "duration_minutes": 39.733333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 571
+  },
+  {
+    "timestamp": "2025-10-06T11:53:23.956007",
+    "duration_seconds": 2151,
+    "duration_minutes": 35.85,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 338
+  },
+  {
+    "timestamp": "2025-10-06T12:03:25.583359",
+    "duration_seconds": 2213,
+    "duration_minutes": 36.88333333333333,
+    "distance_meters": 25526,
+    "distance_km": 25.526,
+    "base_duration": 1896,
+    "traffic_delay": 317
+  },
+  {
+    "timestamp": "2025-10-06T12:13:28.292116",
+    "duration_seconds": 2258,
+    "duration_minutes": 37.63333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 445
+  },
+  {
+    "timestamp": "2025-10-06T12:24:31.042366",
+    "duration_seconds": 2328,
+    "duration_minutes": 38.8,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 515
+  },
+  {
+    "timestamp": "2025-10-06T14:01:49.324800",
+    "duration_seconds": 2415,
+    "duration_minutes": 40.25,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 575
+  },
+  {
+    "timestamp": "2025-10-06T14:11:50.221356",
+    "duration_seconds": 2301,
+    "duration_minutes": 38.35,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 461
+  },
+  {
+    "timestamp": "2025-10-06T14:21:53.873082",
+    "duration_seconds": 2181,
+    "duration_minutes": 36.35,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 368
+  },
+  {
+    "timestamp": "2025-10-06T14:31:58.328974",
+    "duration_seconds": 2235,
+    "duration_minutes": 37.25,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 422
+  },
+  {
+    "timestamp": "2025-10-06T14:42:00.411938",
+    "duration_seconds": 2207,
+    "duration_minutes": 36.78333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 394
+  },
+  {
+    "timestamp": "2025-10-06T14:52:01.484721",
+    "duration_seconds": 2254,
+    "duration_minutes": 37.56666666666667,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 414
+  },
+  {
+    "timestamp": "2025-10-06T15:02:05.327669",
+    "duration_seconds": 2089,
+    "duration_minutes": 34.81666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 276
+  },
+  {
+    "timestamp": "2025-10-06T15:12:08.149504",
+    "duration_seconds": 2104,
+    "duration_minutes": 35.06666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 291
+  },
+  {
+    "timestamp": "2025-10-06T15:22:08.796750",
+    "duration_seconds": 2116,
+    "duration_minutes": 35.266666666666666,
+    "distance_meters": 25459,
+    "distance_km": 25.459,
+    "base_duration": 1840,
+    "traffic_delay": 276
+  },
+  {
+    "timestamp": "2025-10-06T15:32:10.919915",
+    "duration_seconds": 2329,
+    "duration_minutes": 38.81666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 516
+  },
+  {
+    "timestamp": "2025-10-06T15:42:13.148929",
+    "duration_seconds": 2291,
+    "duration_minutes": 38.18333333333333,
+    "distance_meters": 25861,
+    "distance_km": 25.861,
+    "base_duration": 1929,
+    "traffic_delay": 362
+  },
+  {
+    "timestamp": "2025-10-06T15:52:14.676531",
+    "duration_seconds": 2445,
+    "duration_minutes": 40.75,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 632
+  },
+  {
+    "timestamp": "2025-10-06T16:02:20.021842",
+    "duration_seconds": 2167,
+    "duration_minutes": 36.11666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 354
+  },
+  {
+    "timestamp": "2025-10-06T16:12:20.793326",
+    "duration_seconds": 2159,
+    "duration_minutes": 35.983333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 346
+  },
+  {
+    "timestamp": "2025-10-06T16:22:22.704121",
+    "duration_seconds": 2227,
+    "duration_minutes": 37.11666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 414
+  },
+  {
+    "timestamp": "2025-10-06T16:32:24.247371",
+    "duration_seconds": 2377,
+    "duration_minutes": 39.61666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 564
+  },
+  {
+    "timestamp": "2025-10-06T16:42:25.282842",
+    "duration_seconds": 2435,
+    "duration_minutes": 40.583333333333336,
+    "distance_meters": 25298,
+    "distance_km": 25.298,
+    "base_duration": 1850,
+    "traffic_delay": 585
+  },
+  {
+    "timestamp": "2025-10-06T16:52:25.899447",
+    "duration_seconds": 2497,
+    "duration_minutes": 41.61666666666667,
+    "distance_meters": 25321,
+    "distance_km": 25.321,
+    "base_duration": 1884,
+    "traffic_delay": 613
+  },
+  {
+    "timestamp": "2025-10-06T19:30:33.486354",
+    "duration_seconds": 2499,
+    "duration_minutes": 41.65,
+    "distance_meters": 26206,
+    "distance_km": 26.206,
+    "base_duration": 2010,
+    "traffic_delay": 489
+  },
+  {
+    "timestamp": "2025-10-06T19:40:33.864808",
+    "duration_seconds": 2430,
+    "duration_minutes": 40.5,
+    "distance_meters": 26206,
+    "distance_km": 26.206,
+    "base_duration": 2010,
+    "traffic_delay": 420
+  },
+  {
+    "timestamp": "2025-10-06T19:50:34.530082",
+    "duration_seconds": 2497,
+    "duration_minutes": 41.61666666666667,
+    "distance_meters": 26498,
+    "distance_km": 26.498,
+    "base_duration": 2027,
+    "traffic_delay": 470
+  },
+  {
+    "timestamp": "2025-10-06T20:00:34.972733",
+    "duration_seconds": 2536,
+    "duration_minutes": 42.266666666666666,
+    "distance_meters": 25296,
+    "distance_km": 25.296,
+    "base_duration": 1847,
+    "traffic_delay": 689
+  },
+  {
+    "timestamp": "2025-10-06T20:10:35.493848",
+    "duration_seconds": 2463,
+    "duration_minutes": 41.05,
+    "distance_meters": 25296,
+    "distance_km": 25.296,
+    "base_duration": 1847,
+    "traffic_delay": 616
+  },
+  {
+    "timestamp": "2025-10-06T20:20:35.875732",
+    "duration_seconds": 2227,
+    "duration_minutes": 37.11666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 414
+  },
+  {
+    "timestamp": "2025-10-06T20:30:36.450313",
+    "duration_seconds": 2188,
+    "duration_minutes": 36.46666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 375
+  },
+  {
+    "timestamp": "2025-10-06T20:40:36.850269",
+    "duration_seconds": 2034,
+    "duration_minutes": 33.9,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 221
+  },
+  {
+    "timestamp": "2025-10-06T20:50:37.356499",
+    "duration_seconds": 1874,
+    "duration_minutes": 31.233333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 61
+  },
+  {
+    "timestamp": "2025-10-06T21:00:37.767826",
+    "duration_seconds": 1926,
+    "duration_minutes": 32.1,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 113
+  },
+  {
+    "timestamp": "2025-10-06T21:10:38.268985",
+    "duration_seconds": 1914,
+    "duration_minutes": 31.9,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 101
+  },
+  {
+    "timestamp": "2025-10-06T21:20:39.030221",
+    "duration_seconds": 1838,
+    "duration_minutes": 30.633333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 25
+  },
+  {
+    "timestamp": "2025-10-06T21:31:39.444230",
+    "duration_seconds": 1983,
+    "duration_minutes": 33.05,
+    "distance_meters": 25491,
+    "distance_km": 25.491,
+    "base_duration": 1833,
+    "traffic_delay": 150
+  },
+  {
+    "timestamp": "2025-10-06T21:41:39.814871",
+    "duration_seconds": 1882,
+    "duration_minutes": 31.366666666666667,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 69
+  },
+  {
+    "timestamp": "2025-10-06T21:51:40.315640",
+    "duration_seconds": 1869,
+    "duration_minutes": 31.15,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 56
+  },
+  {
+    "timestamp": "2025-10-06T22:01:40.689469",
+    "duration_seconds": 1848,
+    "duration_minutes": 30.8,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 35
+  },
+  {
+    "timestamp": "2025-10-06T22:11:41.228327",
+    "duration_seconds": 1772,
+    "duration_minutes": 29.533333333333335,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -41
+  },
+  {
+    "timestamp": "2025-10-06T22:21:41.580600",
+    "duration_seconds": 1909,
+    "duration_minutes": 31.816666666666666,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 96
+  },
+  {
+    "timestamp": "2025-10-06T22:31:42.079388",
+    "duration_seconds": 1879,
+    "duration_minutes": 31.316666666666666,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 66
+  },
+  {
+    "timestamp": "2025-10-06T22:41:42.537573",
+    "duration_seconds": 1903,
+    "duration_minutes": 31.716666666666665,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 90
+  },
+  {
+    "timestamp": "2025-10-06T22:51:43.021940",
+    "duration_seconds": 1914,
+    "duration_minutes": 31.9,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 101
+  },
+  {
+    "timestamp": "2025-10-06T23:01:43.423224",
+    "duration_seconds": 1784,
+    "duration_minutes": 29.733333333333334,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -29
+  },
+  {
+    "timestamp": "2025-10-06T23:11:43.990650",
+    "duration_seconds": 1858,
+    "duration_minutes": 30.966666666666665,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 45
+  },
+  {
+    "timestamp": "2025-10-06T23:21:44.419581",
+    "duration_seconds": 1805,
+    "duration_minutes": 30.083333333333332,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -8
+  },
+  {
+    "timestamp": "2025-10-06T23:31:44.923975",
+    "duration_seconds": 1716,
+    "duration_minutes": 28.6,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -97
+  },
+  {
+    "timestamp": "2025-10-06T23:41:45.319477",
+    "duration_seconds": 1828,
+    "duration_minutes": 30.466666666666665,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 15
+  },
+  {
+    "timestamp": "2025-10-06T23:51:45.821073",
+    "duration_seconds": 1847,
+    "duration_minutes": 30.783333333333335,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": 34
+  },
+  {
+    "timestamp": "2025-10-07T00:01:46.255269",
+    "duration_seconds": 1806,
+    "duration_minutes": 30.1,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -7
+  },
+  {
+    "timestamp": "2025-10-07T00:11:46.768773",
+    "duration_seconds": 1797,
+    "duration_minutes": 29.95,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -16
+  },
+  {
+    "timestamp": "2025-10-07T00:21:47.169526",
+    "duration_seconds": 1797,
+    "duration_minutes": 29.95,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -16
+  },
+  {
+    "timestamp": "2025-10-07T00:31:47.643794",
+    "duration_seconds": 1798,
+    "duration_minutes": 29.966666666666665,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -15
+  },
+  {
+    "timestamp": "2025-10-07T00:44:55.414820",
+    "duration_seconds": 1763,
+    "duration_minutes": 29.383333333333333,
+    "distance_meters": 25178,
+    "distance_km": 25.178,
+    "base_duration": 1813,
+    "traffic_delay": -50
+  },
+  {
+    "timestamp": "2025-10-07T09:40:12.191500",
+    "duration_seconds": 3521,
+    "duration_minutes": 58.68333333333333,
+    "distance_meters": 30296,
+    "distance_km": 30.296,
+    "base_duration": 2315,
+    "traffic_delay": 1206
+  },
+  {
+    "timestamp": "2025-10-07T09:50:12.643011",
+    "duration_seconds": 3366,
+    "duration_minutes": 56.1,
+    "distance_meters": 30078,
+    "distance_km": 30.078,
+    "base_duration": 2336,
+    "traffic_delay": 1030
+  },
+  {
+    "timestamp": "2025-10-07T10:00:13.322755",
+    "duration_seconds": 3213,
+    "duration_minutes": 53.55,
+    "distance_meters": 28316,
+    "distance_km": 28.316,
+    "base_duration": 2350,
+    "traffic_delay": 863
+  },
+  {
+    "timestamp": "2025-10-07T10:28:06.560496",
+    "duration_seconds": 3036,
+    "duration_minutes": 50.6,
+    "distance_meters": 26399,
+    "distance_km": 26.399,
+    "base_duration": 2122,
+    "traffic_delay": 914
+  },
+  {
+    "timestamp": "2025-10-07T10:38:07.648012",
+    "duration_seconds": 2895,
+    "duration_minutes": 48.25,
+    "distance_meters": 27025,
+    "distance_km": 27.025,
+    "base_duration": 2247,
+    "traffic_delay": 648
+  },
+  {
+    "timestamp": "2025-10-07T10:48:09.961602",
+    "duration_seconds": 2859,
+    "duration_minutes": 47.65,
+    "distance_meters": 31101,
+    "distance_km": 31.101,
+    "base_duration": 2122,
+    "traffic_delay": 737
+  }
+]
