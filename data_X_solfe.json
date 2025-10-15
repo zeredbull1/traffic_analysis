@@ -12031,5 +12031,14 @@
     "distance_km": 25.461,
     "base_duration": 1843,
     "traffic_delay": 975
+  },
+  {
+    "timestamp": "2025-10-15T18:21:02.868281",
+    "duration_seconds": 2925,
+    "duration_minutes": 48.75,
+    "distance_meters": 25180,
+    "distance_km": 25.18,
+    "base_duration": 1816,
+    "traffic_delay": 1109
   }
 ]
